@@ -4,15 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Welcome to eRail: Sign In</title>
+<title>Welcome to eRail Service</title>
 </head>
 <body>
-
- <form action="profile.jsp">
-  First name: <input type="text" name="fname"><br>
-  Last name: <input type="text" name="lname"><br>
-  <input type="submit" value="Submit">
-</form> 
-
+<h2>Welcome to eRail Services</h2>
 </body>
 </html>
