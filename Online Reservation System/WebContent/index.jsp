@@ -30,7 +30,7 @@
                 <li><a href="#" class="active">Discounted Tours</a></li>
                 <li><a href="#">Quick Book</a></li>
                 <li><a href="#">Sign In</a></li>
-                <li><a href="#">Sign Up</a></li>
+                <li><a href="register.jsp">Sign Up</a></li>
                 <li><a href="#">take the tour</a></li>
                 <li><a href="#" class="last">contact</a></li>
             </ul>
