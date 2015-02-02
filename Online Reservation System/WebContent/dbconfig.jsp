@@ -11,10 +11,13 @@
 <body>
 <% 
 java.sql.Connection conn=null;
-String url="jdbc:mysql://localhost:3306/myDb";
+//java.sql.PreparedStatement pst = null;
+
+String url="jdbc:mysql://localhost:3306/eRail";
 String Driver="com.mysql.jdbc.Driver";
 String username="root";
 String password="root";
+
 
 try{
 	Class.forName(Driver);

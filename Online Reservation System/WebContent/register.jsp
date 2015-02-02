@@ -42,17 +42,17 @@
         </div>     
 		</header>
 
-<form action="profile.jsp" align="center">
+<form action="insertData.jsp" action="post" align="center">
   
   <label>First name </label><input type="text" name="fname"><br>
   <label>Last name </label><input type="text" name="lname"><br>
   <label>Date of Birth </label><input type="text" name="dob"><br>
-  <label>Gemder </label><input type="text" name="gender"><br>
+  <label>Gender </label><input type="text" name="gender"><br>
   <label>Email </label><input type="text" name="email"><br>
   <label>Mobile Number </label><input type="text" name="mob"><br>
   <label>Address </label><input type="text" name="addr"><br>
   <label>Password </label><input type="text" name="pwd"><br>
-  <label>Confirm Password </label><input type="text" name="cpwd"><br>
+  <!--  <label>Confirm Password </label><input type="text" name="cpwd"><br>-->
   
   <input type="submit" value="Submit">
 </form> 
